@@ -17,7 +17,7 @@ The IGS part is fully shared concepts that can be applied at all levels, so we'l
 
 This is intended to be an organic cookbook that evolves with the game as Space Engineers matures. It is not intended to become an actual physical 'Print' book. HOWEVER, the license for all code and text in this repo is under an extremely open MIT licence, which means that lifting this text and republishing in any form is entirely allowed (with attribution).
 
-Do not contribute to this repo if that does not sit well with you. If you see code in here that is yours and would prefer it removed, please feel free to contact me so that we can work together to still provide the modding community at large with valuable information but not feel as if your hard work has been compromised - I respect tha
+Do not contribute to this repo if that does not sit well with you. If you see code in here that is yours and would prefer it removed, please feel free to contact me so that we can work together to still provide the modding community at large with valuable information but not feel as if your hard work has been compromised - I respect that
 
 If you do republish this to make profit off this, please consider ways to give some of that money back into the modding community. Editing this content to make it book-worthy is no small task in and of itself, so there is definitely merit to it.
 
