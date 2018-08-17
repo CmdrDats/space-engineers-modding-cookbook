@@ -29,6 +29,7 @@ The IGS part is fully shared concepts that can be applied at all levels, so we'l
 - General Do's and Don'ts for IGS
 - Setting the update speed
 - Hello World
+- Publish and update project to Steam Workshop
 - Project setup with external editor (Visual Studio)
 - Find specific block types on a grid
 - Turn blocks on or off on a timer
@@ -46,6 +47,7 @@ The IGS part is fully shared concepts that can be applied at all levels, so we'l
 - Setup your environment for modding (including tools)
 - Migrate an IGS to a mod.
 - Create a blank mod, setting update speed.
+- Publish and update project to Steam Workshop
 - Drawn debug lines, shapes.
 - Find connected grids
 - Spawn a blueprint into the game world
@@ -56,7 +58,7 @@ The IGS part is fully shared concepts that can be applied at all levels, so we'l
 - Create explosions
 - Warp effect
 - Multiplayer server/client communication
-- Chat Commands
+- Handle custom chat commands
 
 # Plugins
 
