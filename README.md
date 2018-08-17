@@ -13,6 +13,14 @@ To be entirely clear - going forward, 'IGS' or In Game Scripting will refer to t
 
 The IGS part is fully shared concepts that can be applied at all levels, so we'll cover a single entry on how to use an IGS inside a mod and then you can use any of the IGS scripting concepts inside a normal mod.
 
+# Important Licence Disclaimer (Read this if you want to contribute/republish)
+
+This is intended to be an organic cookbook that evolves with the game as Space Engineers matures. It is not intended to become an actual physical 'Print' book. HOWEVER, the license for all code and text in this repo is under an extremely open MIT licence, which means that lifting this text and republishing in any form is entirely allowed (with attribution).
+
+Do not contribute to this repo if that does not sit well with you. If you see code in here that is yours and would prefer it removed, please feel free to contact me so that we can work together to still provide the modding community at large with valuable information but not feel as if your hard work has been compromised - I respect tha
+
+If you do republish this to make profit off this, please consider ways to give some of that money back into the modding community. Editing this content to make it book-worthy is no small task in and of itself, so there is definitely merit to it.
+
 # Editing guide
 
 - Guidelines for contributing to this cookbook, in short:
@@ -20,7 +28,7 @@ The IGS part is fully shared concepts that can be applied at all levels, so we'l
   - Keep the language clean, clear and succinct, but remember that there is no 'obviously'. Explain every step.
   - Have important pieces of code scattered in the article, along with mostly copy-able code at the end.
   - Adhere to a standard file structure, so that testing the entry in-game is quick and painless.
-  - Give attribution to original authors. If you distilled a section from a specific mod, mention their work - especially important if you copied sections of their code.
+  - Give attribution to original authors. If you distilled a section from a specific mod, mention their work. Emphasis on 'distilled' - there may be licensing issues if you simply copy code from other authors, don't do that. 
   - Reference some other example mods that use a similar technique, to showcase what can be done.
   - Add a 'see also' section to give a beginner a natural progression from your entry.
 
