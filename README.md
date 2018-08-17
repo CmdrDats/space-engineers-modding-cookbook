@@ -17,8 +17,11 @@ The IGS part is fully shared concepts that can be applied at all levels, so we'l
 
 - General Do's and Don'ts for IGS
 - Setting the update speed
-- Find block sets, turn them on or off on a timer
+- Find specific block types on a grid
+- Turn blocks on or off on a timer
 - Calculate inventory size
+- Writing to LCD's
+- Drawing pixels on LCD's
 
 
 # Modding
@@ -26,6 +29,8 @@ The IGS part is fully shared concepts that can be applied at all levels, so we'l
 - General Do's and Don'ts for modding
 - Migrate an IGS to a mod.
 - Create a blank mod, setting update speed.
+- Drawn debug lines, shapes.
+- Find connected grids
 - Spawn a blueprint into the game world
 - Simple new custom block mesh + texture (no logic)
 - Custom block programming
