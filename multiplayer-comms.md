@@ -3,7 +3,7 @@
 Cover multiplayer checking, server/client responsibility guidelines, communication principles to make for robust, but efficient MP mods.
 
 Thanks @Phoera on KSH Discord for this handy snippet:
-```
+```csharp
         /// <summary>
         /// DS server
         /// </summary>
