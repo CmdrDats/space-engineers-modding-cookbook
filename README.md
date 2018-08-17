@@ -43,6 +43,7 @@ The IGS part is fully shared concepts that can be applied at all levels, so we'l
 # Modding
 
 - General Do's and Don'ts for modding
+- Setup your environment for modding (including tools)
 - Migrate an IGS to a mod.
 - Create a blank mod, setting update speed.
 - Drawn debug lines, shapes.
@@ -56,3 +57,8 @@ The IGS part is fully shared concepts that can be applied at all levels, so we'l
 - Warp effect
 - Multiplayer server/client communication
 - Chat Commands
+
+# Plugins
+
+- General information and warnings around dll plugin development
+- Setup your environment for plugin development
