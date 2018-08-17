@@ -19,7 +19,7 @@ This is intended to be an organic cookbook that evolves with the game as Space E
 
 Do not contribute to this repo if that does not sit well with you. If you see code in here that is yours and would prefer it removed, please feel free to contact me so that we can work together to still provide the modding community at large with valuable information but not feel as if your hard work has been compromised - I respect that
 
-If you do republish this to make profit off this, please consider ways to give some of that money back into the modding community. Editing this content to make it book-worthy is no small task in and of itself, so there is definitely merit to it.
+If you do republish this to make profit off this, please consider ways to give some of that money back into the modding community. Editing this content to make it book-worthy is no small task in and of itself, so there is definitely merit to it, but remember the plenty of hours of hard work that has gone into figuring this lot out by the community.
 
 # Editing guide
 
